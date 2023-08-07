@@ -11,14 +11,23 @@ body {
 }
 
 .home {
-    background-color: #262626;
+    background-color: #111111;
     color: white;
     height: 32.1em;
     font-size: 30px;
 }
 
 .home-container {
-    padding: 10em 0 0 10em;
+    padding: 8em 15em 0 10em;
+}
+
+.home-user-profile {
+    margin-top: 1em;
+    border-radius: 50em;
+    border: solid;
+    float: right;
+    width: 30%;
+    height: auto;
 }
 
 .home-intro-references {
